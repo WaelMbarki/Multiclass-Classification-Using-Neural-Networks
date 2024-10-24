@@ -22,7 +22,7 @@ The aim of this project is to build a neural network model for multiclass classi
   - `scikit-learn`: For generating the dataset and splitting it into training and test sets.
   - `matplotlib` or `seaborn`: For visualizing the data.
   - `PyTorch` : For building and training the neural network.
-  - 'Numpy' : For data manipulation
+  - `Numpy` : For data manipulation
 
 ### Steps
 
